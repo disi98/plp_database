@@ -4,3 +4,6 @@
     week 1
         |__answers.sql       # WK 1 answers to sql database assignment
         |__README.md
+    week 2
+        |__answers.sql       # WK 1 answers to sql database assignment
+        |__README.md
