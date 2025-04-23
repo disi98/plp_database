@@ -5,5 +5,8 @@
         |__answers.sql       # WK 1 answers to sql database assignment
         |__README.md
     week 2
-        |__answers.sql       # WK 1 answers to sql database assignment
+        |__answers.sql       # WK 2 answers to sql database assignment
+        |__README.md
+    week 3
+        |__answers.sql       # WK 3 answers to sql database assignment
         |__README.md
