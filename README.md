@@ -13,4 +13,7 @@
     week 4
         |__answers.sql       # WK 4 answers to sql database assignment
         |__README.md
+    week 5
+        |__answers.sql       # WK 5 answers to sql database assignment
+        |__README.md
         
