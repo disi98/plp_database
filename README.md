@@ -9,7 +9,7 @@ This repository contains the Database assignments. Each week’s folder holds th
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/disi98/plp_database.git>
+   git clone https://github.com/disi98/plp_database.git
    ```
 2. Navigate into the workspace:
    ```bash
@@ -46,9 +46,4 @@ plp_database/
     └── README.md        # Context and explanations for Week 7
 ```
 
-## Contributing
-Feel free to open issues or submit pull requests with enhancements, corrections, or additional exercises.
-
-## License
-This project is licensed under the MIT License.
 
