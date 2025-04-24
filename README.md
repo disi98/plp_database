@@ -9,7 +9,7 @@ This repository contains the SQL assignments for the PLP (Programming Languages 
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/disi98/plp_database.git>
    ```
 2. Navigate into the workspace:
    ```bash
