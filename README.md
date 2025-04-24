@@ -1,6 +1,6 @@
 # PLP Database Assignments
 
-This repository contains the SQL assignments for the PLP (Programming Languages and Paradigms) course. Each week’s folder holds the SQL scripts and supporting README for that week’s exercises, covering normal forms, joins, subqueries, and other fundamental database concepts.
+This repository contains the Database assignments. Each week’s folder holds the SQL scripts and supporting README for that week’s exercises, covering normal forms, joins, subqueries, and other fundamental database concepts.
 
 ## Prerequisites
 - MySQL (or any compatible SQL database engine)
